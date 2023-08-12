@@ -1,3 +1,5 @@
 python-dotenv
 pydantic
 streamlit
+geopy
+pandas
