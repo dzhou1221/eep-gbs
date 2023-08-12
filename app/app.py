@@ -1,6 +1,6 @@
 import streamlit as st
 from common.utils.authentication import check_password
-      
+
 if check_password():
   st.set_page_config(
       page_title="Hello",
