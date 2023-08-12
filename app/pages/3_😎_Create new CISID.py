@@ -2,7 +2,6 @@ import time
 
 import pandas as pd
 import streamlit as st
-import folium
 from geopy.geocoders import Nominatim
 from common.utils.authentication import check_password
 
